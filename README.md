@@ -21,7 +21,7 @@ Contoh:
 ## Struktur Folder
 
 ```text
-pertemuan-11-dictionary-2225250042/
+pertemuan-11-dictionary-2225250120/
 ├── README.md
 ├── .gitignore
 ├── latihan/
